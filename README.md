@@ -1,12 +1,10 @@
-document
-========
-
-文档
+项目说明
 
 graduation project(毕业设计,百阅网上书店) 
 2014年华南师范大学 计算机系 
 
 项目组成： 
+  文档：documents
   后台：baiyue-admin 
   前台：baiyue-shop 
 
